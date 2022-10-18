@@ -1,3 +1,13 @@
+![image](https://user-images.githubusercontent.com/109632850/196317963-27cc625f-ed9c-4169-845c-d775e4d3ce8e.png)
+# SpringBoot - Building RESTful API Webservices using Spring Data JPA, database H2, and test on Postman
+- GET getAllUsers
+- POST createUser
+- GET getUserById
+- PUT updateUser
+- DEL deleteUserById
+- GET getUserByUsername
+
+
 # CLI: for git
 - git merge 01-ground-zero-base
 - git checkout -b "02-Hello-World"
