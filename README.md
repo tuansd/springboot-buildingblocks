@@ -3,14 +3,14 @@
 
 
 # additional comments: SpringBoot - Building RESTful API Webservices using Spring Data JPA, database H2, and test on Postman
-- GET getAllUsers
+- GET getAllUsers // [http://localhost:8080/users](http://localhost:8080/users)
 - POST createUser
-- GET getUserById
+- GET getUserById // http://localhost:8080/users/101
 - PUT updateUser
 - DEL deleteUserById
-- GET getUserByUsername
+- GET getUserByUsername // http://localhost:8080/users/byusername/kreddy
 
-
+# Database h2: http://localhost:8080/h2-console
 # CLI: for git
 - git merge 01-ground-zero-base
 - git checkout -b "02-Hello-World"
