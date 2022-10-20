@@ -1,18 +1,17 @@
 ![img.png](img.png)
 ![img_1.png](img_1.png)
-# Addition commend:
-![img_6.png](img_6.png)
-# CLI: for git
-- git merge 01-ground-zero-base
-- git checkout -b "02-Hello-World"
-- git add .
-- git commit -am "first commit"
+# Addition commend: A User Management Service
+- Using Java Spring Boot to develop RESTful APIs Webservices using Spring Data JPA, database H2, and test on Postman IDE
+- Design URL to manage the user data connection to the database with http methods: GET, POST, PUT, and DELETE
+- Exception handling with ResponseStatusException
+
+
+# CLI: git new branch
 - git show-branch
-- git push
-# CLI: new branch
-- git push --set-upstream origin 02-Hello-World
+- git checkout -b "04-ExceptionHandling-ResponseStatusCodes"
+- git push --set-upstream origin 04-ExceptionHandling-ResponseStatusCodes
 
 # CLI: git merge
 - git checkout main
-- git merge 02-Hello-World
+- git merge 04-ExceptionHandling-ResponseStatusCodes
 - git push
