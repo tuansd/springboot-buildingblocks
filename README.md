@@ -1,6 +1,6 @@
 ![img.png](img.png)
 ![img_1.png](img_1.png)
-# Addition commend: A User Management Service
+# Addition comment: A User Management Service
 - Using Java Spring Boot to develop RESTful APIs Webservices using Spring Data JPA, database H2, and test on Postman IDE
 - Design URL to manage the user data connection to the database with http methods: GET, POST, PUT, and DELETE
 - Exception handling with ResponseStatusException
